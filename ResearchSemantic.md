@@ -339,39 +339,3 @@ There exist several mature toolkits which deal with Vector Space Modelling. Thes
  * Adopt ResumeRDF and DOAP (description of a project) to this wiki (my CV)
    See [Tutorial](http://www.ibm.com/developerworks/xml/library/x-plansemantic/index.html?ca=drs-)
 
-* Citar 
-{{{
-@inproceedings{isem2011mendesetal,
-title = {DBpedia Spotlight: Shedding Light on the Web of Documents},
-author = {Pablo N. Mendes and Max Jakob and Andr\'{e}s Garc\'{i}a-Silva and Christian Bizer},
-year = {2011},
-booktitle = {Proceedings of the 7th International Conference on Semantic Systems (I-Semantics)},
-abstract = {Interlinking text documents with Linked Open Data enables the Web of Data to be used as background knowledge within document-oriented applications such as search and faceted browsing. As a step towards interconnecting the Web of Documents with the Web of Data, we developed DBpedia Spotlight, a system for automatically annotating text documents with DBpedia URIs. DBpedia Spotlight allows users to configure the annotations to their specific needs through the DBpedia Ontology and quality measures such as prominence, topical pertinence, contextual ambiguity and disambiguation confidence. We compare our approach with the state of the art in disambiguation, and evaluate our results in light of three baselines and six publicly available annotation systems, demonstrating the competitiveness of our system. DBpedia Spotlight is shared as open source and deployed as a Web Service freely available for public use.}
-}
-}}}
-
-
-<http://www.pnas.org/content/101/suppl.1/5228.full>
-{{{
-Finding scientific topics
-Thomas L. Griffiths * , † , ‡ and Mark Steyvers
-PNAS April 6, 2004 vol. 101 no. Suppl 1 5228-5235
-
- “Mapping Knowledge Domains,” held May 9-11, 2003, at the Arnold and Mabel Beckman Center of the National Academies of Sciences and Engineering in Irvine, CA.
-}}}
- * 
- * [Zemanta](http://www.zemanta.com/)
-
-@article{4315,
-  author = {Dimitris Apostolou and Gregoris Mentzas and Andreas Abecker},
-  interhash = {243b786fd6b3a6902056d987107bea81},
-  intrahash = {f725dcb2da006e880a161e84b967fcce},
-  journal = {Journal of Computer Information Systems},
-  pages = {32-49},
-  title = {Managing Knowledge at Multiple Organizational Levels Using Faceted Ontologies},
-  volume = {Winter 2008-2009},
-  year = 2008,
-  keywords = {FZI ICCS WP9000 from:dapost nepomuk},
-  added-at = {2009-01-26T11:29:43.000+0100},
-  biburl = {http://www.bibsonomy.org/bibtex/2f725dcb2da006e880a161e84b967fcce/nepomuk}
-}
