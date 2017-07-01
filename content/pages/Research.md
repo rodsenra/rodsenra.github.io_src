@@ -4,11 +4,7 @@ Modified: 2017-05-28 23:30
 Category: Page
 Slug: research
 
-# Research
-
 ![Research](/images/research.png)
-
-[[Research notes about Semantic Web|ResearchSemantic]]
 
 # Neverending Study
 

@@ -4,11 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Rodrigo Senra'
 SITENAME = 'Tao do Senra'
-SITEURL = ''
+SITEURL = 'http://rodrigo.senra.nom.br'
 
 PATH = 'content'
 
-THEME = '/Users/rodsenra/pelican-themes/brownstone/'
+THEME = '/Users/rodsenra/pelican-themes/simple-bootstrap'
 
 TIMEZONE = 'America/New_York'
 
