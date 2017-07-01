@@ -197,6 +197,7 @@ For some on-line slides, visit my page at [http://www.slideshare.net/rodsenra/sl
 <iframe width="560" height="315" src="http://www.youtube.com/embed/a13NfKWbeuU" frameborder="0" allowfullscreen></iframe>
 
 
+
 <p>86. "Mini-curso de Python".  Universidade Federal de Juiz de Fora (UFJF). Juiz de Fora - MG. October 15, 2012. Contact: Luciano Chavez </p>
 
 <p>85. "Confissões de um hacker tupiniquim".  Universidade Federal de Juiz de Fora (UFJF). Juiz de Fora - MG. October 15, 2012. Contact: Luciano Chavez </p>
@@ -206,6 +207,7 @@ For some on-line slides, visit my page at [http://www.slideshare.net/rodsenra/sl
 
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/8388558" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/rodsenra/unicampago2010pdf" title="Python: Cabe no seu bolso, no seu micro, no seu cérebro." target="_blank">Python: Cabe no seu bolso, no seu micro, no seu cérebro.</a> </strong> from <strong><a href="http://www.slideshare.net/rodsenra" target="_blank">Rodrigo Senra</a></strong> </div>
+
 
 
 <p>83. "Python em 7 minutos". Encontro 7Masters no iMasters São Paulo - SP. [http://www.slideshare.net/rodsenra/cases-de-python-no-7masters-2012 Slides no SlideShare]. [http://imasters.com.br/noticia/24232/py/python-e-assunto-do-encontro-7masters-de-abril Notícia no site do iMasters]</p>
@@ -222,103 +224,83 @@ For some on-line slides, visit my page at [http://www.slideshare.net/rodsenra/sl
 <p>80. [http://www.gonow.com.br/blog/2011/09/29/o-pout-pourri-do-python-text-processing-por-rodrigo-senra/ "pa-pe-pi-po-Pure Python Text Processing"]. !PythonBrasil [7] 2011-09-29. São Paulo /SP. Contact: Érico Andrei. See also [http://www.pythonbrasil.org.br/2011/programacao/grade-do-evento/multimidia-e-games/pa-pe-py-po-pure-python-text-processing speech page at PythonBrasil2011 home]</p>
 
 
+<iframe src="http://www.slideshare.net/slideshow/embed_code/9516492" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/9516492" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/rodsenra/papepipopure-python-text-processing" title="pa-pe-pi-po-pure Python Text Processing" target="_blank">pa-pe-pi-po-pure Python Text Processing</a> </strong> from <strong><a href="http://www.slideshare.net/rodsenra" target="_blank">Rodrigo Senra</a></strong> </div>
+<div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/rodsenra/papepipopure-python-text-processing" title="pa-pe-pi-po-pure Python Text Processing" target="_blank">pa-pe-pi-po-pure Python Text Processing</a> </strong> from <strong><a href="http://www.slideshare.net/rodsenra" target="_blank">Rodrigo Senra</a></strong> </div>
+
+<p>79. "Evaluating, Reorganising and Sharing Digital Information Hierarchies". Talk given to [http://www.lis.ic.unicamp.br LIS Research Group] at Unicamp. 2011-09-28. Contact: Claudia Bauzer Medeiros</p>
+
+<p>78. "Python - A Arma secreta do Google". Speech given with Luciano Ramalho. Unicamp - Campinas/SP. (2011-09-22). Ciclo de Palestras da Compec.</p>
+
+<p>77. "Python: cabe no seu bolso, no seu micro, no seu cérebro." UFV Viçosa. (2011-08-20) XVI Semana de Informática. Contact:  Claudinei Oliveira Junior</p>
+
+<p>76. "Advanced Object-Oriented Concepts in Python". Unicamp. (2011-05-23) Contact: André Santache </p>
+
+<p>75. "Python: Cabe no seu bolso, no seu micro, no seu cérebro". Art - Campinas (2011-06-01) Contact: Thomas Bryan</p>
+
+<p>74. "Python: Cabe no seu bolso, no seu micro, no seu cérebro". FACCAMP - Campo Limpo (2011-05-23) Contact:  Luis Mariano del Val Cura </p>
+
+<p>73. "Python: Cabe no seu bolso, no seu micro, no seu cérebro". Policamp - Campinas  (2011-04-25) Contact: Matheus Dias. [http://www.seufuturonapratica.com.br/portal/index.php?id=27&tx_ttnews%5Btt_news%5D=9256&tx_ttnews%5BbackPid%5D=99&cHash=b101b34572 More info]</p>
+
+<p>72. [wiki:Research_Webist2011 "Organographs: Multi-faceted Hierarchical Categorization of Web Documents"]. Webist 2011: 7th International Conference on Web Information Systems and Technologies. Noordwijkerhout, Netherlands. (2011-04-09) Program Chair:José Cordeiro.  </p>
+
+<p>71. "Uma breve história no tempo...da Computação".  Flisol 2011. Campinas (2011-04-09) Contact: Maxx Fonseca </p>
+
+<p>70. "Uma breve história no tempo...da Computação".  SÉRIE DE SEMINÁRIOS SOBRE SOFTWARE LIVRE DO INSTITUTO DE COMPUTAÇÃO - UNICAMP( 2011-02-28). Contact: Prof.Islene.</p>
+
+<p>69. "Python: Cabe no seu bolso, no seu micro, no seu cérebro" during [http://www.faj.br/compufaj/ Compufaj] in Jaguariúna (2010-11-25). Contact: Isaías.</p>
+
+<p>68. "Potter vs Voldemort: Lições Ofidiglotas da Prática Pythonica" during [http://www.pythonbrasil.org.br/2010 Python Brasil] [6] in Curitiba (2010-10-23) </p>
 
 
-79. "Evaluating, Reorganising and Sharing Digital Information Hierarchies". Talk given to [http://www.lis.ic.unicamp.br LIS Research Group] at Unicamp. 2011-09-28. Contact: Claudia Bauzer Medeiros
-
-78. "Python - A Arma secreta do Google". Speech given with Luciano Ramalho. Unicamp - Campinas/SP. (2011-09-22). Ciclo de Palestras da Compec. Contact: 
-
-77. "Python: cabe no seu bolso, no seu micro, no seu cérebro." UFV Viçosa. (2011-08-20) XVI Semana de Informática. Contact:  Claudinei Oliveira Junior
-
-76. "Advanced Object-Oriented Concepts in Python". Unicamp. (2011-05-23) Contact: André Santache 
-
-75. "Python: Cabe no seu bolso, no seu micro, no seu cérebro". Art - Campinas (2011-06-01) Contact: Thomas Bryan
-
-74. "Python: Cabe no seu bolso, no seu micro, no seu cérebro". FACCAMP - Campo Limpo (2011-05-23) Contact:  Luis Mariano del Val Cura 
-
-73. "Python: Cabe no seu bolso, no seu micro, no seu cérebro". Policamp - Campinas  (2011-04-25) Contact: Matheus Dias. [http://www.seufuturonapratica.com.br/portal/index.php?id=27&tx_ttnews%5Btt_news%5D=9256&tx_ttnews%5BbackPid%5D=99&cHash=b101b34572 More info]
-
-72. [wiki:Research_Webist2011 "Organographs: Multi-faceted Hierarchical Categorization of Web Documents"]. Webist 2011: 7th International Conference on Web Information Systems and Technologies. Noordwijkerhout, Netherlands. (2011-04-09) Program Chair:José Cordeiro.  
-
-71. "Uma breve história no tempo...da Computação".  Flisol 2011. Campinas (2011-04-09) Contact: Maxx Fonseca 
-
-70. "Uma breve história no tempo...da Computação".  SÉRIE DE SEMINÁRIOS SOBRE SOFTWARE LIVRE DO INSTITUTO DE COMPUTAÇÃO - UNICAMP( 2011-02-28). Contact: Prof.Islene.
-
-69. "Python: Cabe no seu bolso, no seu micro, no seu cérebro" during [http://www.faj.br/compufaj/ Compufaj] in Jaguariúna (2010-11-25). Contact: Isaías.
-
-68. "Potter vs Voldemort: Lições Ofidiglotas da Prática Pythonica" during [http://www.pythonbrasil.org.br/2010 Python Brasil] [6] in Curitiba (2010-10-23) 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JfhQu9_oH70?list=PLDC3uVLxaEQ0BGv5jUXpU6YXh0KUiWHyO" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/6246288" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/rodsenra/python-brasil-2010-potter-vs-voldemort-lies-ofidiglotas-da-prtica-pythonica" title="Python Brasil 2010 - Potter vs Voldemort - Lições ofidiglotas da prática Pythonica" target="_blank">Python Brasil 2010 - Potter vs Voldemort - Lições ofidiglotas da prática Pythonica</a> </strong> from <strong><a href="http://www.slideshare.net/rodsenra" target="_blank">Rodrigo Senra</a></strong> </div>
 
 
-67. [http://pet.icmc.usp.br/semcomp13/courses/4 Python Course (8hs) at USP-São Carlos] during 13th Semcomp USP-São Carlos Brazil (2010-09-23). [wiki:PyCourseNotes Course Notes].
+<p>67. [http://pet.icmc.usp.br/semcomp13/courses/4 Python Course (8hs) at USP-São Carlos] during 13th Semcomp USP-São Carlos Brazil (2010-09-23). [wiki:PyCourseNotes Course Notes].</p>
 
-66. Python: cabe no seu bolso, no seu micro, no seu cérebro.
+<p>66. Python: cabe no seu bolso, no seu micro, no seu cérebro.
 (Seminarios/IC-Unicamp Campinas - SP, from 2010-08-25 16:00 to 2010-08-25 18:00)
-Palestra apresentada na [http://www.lsd.ic.unicamp.br/mc039wiki/index.php/Python:_Cabe_no_seu_bolso,_no_seu_micro,_no_seu_c%C3%A9rebro disciplina de Seminários MC039] ministrada pela Prof.Islene. [http://rodrigo.senra.nom.br/attachment/wiki/PublicSpeeches/UnicampAgo2010.pdf Slides] 
+Palestra apresentada na [http://www.lsd.ic.unicamp.br/mc039wiki/index.php/Python:_Cabe_no_seu_bolso,_no_seu_micro,_no_seu_c%C3%A9rebro disciplina de Seminários MC039] ministrada pela Prof.Islene. [http://rodrigo.senra.nom.br/attachment/wiki/PublicSpeeches/UnicampAgo2010.pdf Slides] </p>
 
-65. Python: cabe no seu bolso, no seu micro, no seu cérebro.
+<p>65. Python: cabe no seu bolso, no seu micro, no seu cérebro.
 (FIPP/Unoeste Presidente Prudente - SP, from 2010-05-18 20:30 to 2010-05-18 21:30)
-Palestra apresentada na FIPP/Unoeste
+Palestra apresentada na FIPP/Unoeste </p>
 
-64. Database descriptors: laying the path to commodity web data services
-(PUC-RJ, from 2009-12-14 08:00 to 2009-12-14 18:00)
-Presentation at ECBS-LARC 2009
+<p>64. Database descriptors: laying the path to commodity web data services (PUC-RJ, from 2009-12-14 08:00 to 2009-12-14 18:00) Presentation at ECBS-LARC 2009</p>
 
 
-63. SBBD 2009 - SciFrame: Framework to describe Scientific Data Sharing
-(Fortaleza - CE, from 2009-10-04 08:00 to 2009-10-09 22:00)
+<p>63. SBBD 2009 - SciFrame: Framework to describe Scientific Data Sharing (Fortaleza - CE, from 2009-10-04 08:00 to 2009-10-09 22:00)</p>
  
+<p>62. Python: cabe no seu bolso, no seu micro, no seu cérebro. SECOMP 2009 Presidente Prudente (Unesp - Presidente Prudente, from 2009-10-02 22:10 to 2009-10-03 12:00) Palestra seguida de mini-curso.</p>
 
-
-
-62. Python: cabe no seu bolso, no seu micro, no seu cérebro. SECOMP 2009 Presidente Prudente
-(Unesp - Presidente Prudente, from 2009-10-02 22:10 to 2009-10-03 12:00)
-Palestra seguida de mini-curso.
-
-
-
-61. Mini-curso de Python - IC40 anos
+<p>61. Mini-curso de Python - IC40 anos
 (Ciclo Básico - Unicamp - Campinas, from 2009-09-30 08:00 to 2009-10-01 18:00)
-Mini-curso de dois dias sobre Python apresentado no ciclo básico para mais de 120 inscritos em comemoração aos 40 anos do instituto de computação.
+Mini-curso de dois dias sobre Python apresentado no ciclo básico para mais de 120 inscritos em comemoração aos 40 anos do instituto de computação.</p>
 
 
-
-60. Olhando debaixo da Saia do Compilador - PyConBrasil 2009
+<p>60. Olhando debaixo da Saia do Compilador - PyConBrasil 2009
 (UCS - Caxias do Sul, from 2009-09-10 08:00 to 2009-11-12 22:00)
-Apresentação sobre o compilador SFC+ST -> Ladder escrito em Python durante a PyConBrasil 2009
+Apresentação sobre o compilador SFC+ST -> Ladder escrito em Python durante a PyConBrasil 2009</p>
 
 
-59. Um pouco de tudo com Python
-(Flisol 2009 - Campinas, from 2009-04-25 11:00 to 2009-04-25 12:00)
-Apresentação no Flisol 2009 - Campinas
-
-
-
-58. Python: Cabe no seu bolso, no seu micro, no seu cérebro.
-( Sala CB05 - Unicamp, from 2009-03-18 16:00 to 2009-03-18 17:35)
-Seminários de Software Livre
+<p>59. Um pouco de tudo com Python (Flisol 2009 - Campinas, from 2009-04-25 11:00 to 2009-04-25 12:00) Apresentação no Flisol 2009 - Campinas</p>
 
 
 
-57. Python: cabe no seu bolso, no seu micro, no seu cérebro
-(Inconfidentes-MG, from 2008-10-24 09:00 to 2008-10-24 11:00)
-Semana de Ciência e Tecnologia da Escola Agrotécnica Federal de Inconfidentes/MG
+<p>58. Python: Cabe no seu bolso, no seu micro, no seu cérebro. ( Sala CB05 - Unicamp, from 2009-03-18 16:00 to 2009-03-18 17:35) Seminários de Software Livre</p>
 
 
 
-56. Python: cabe no seu bolso, no seu micro, no seu cérebro
-(SÃ£o Bernardo - Faculdade TÃ©cnica de TermomecÃ¢nica, from 2008-10-10 19:20 to 2008-10-10 21:00)
-IV Semana de Tecnologia da FTT
+<p>57. Python: cabe no seu bolso, no seu micro, no seu cérebro (Inconfidentes-MG, from 2008-10-24 09:00 to 2008-10-24 11:00) Semana de Ciência e Tecnologia da Escola Agrotécnica Federal de Inconfidentes/MG</p>
 
 
 
-55. REST, Gateways e Compiladores
-(Universidade Veiga de Almeida - Rio de Janeiro/RJ, from 2008-09-19 09:00 to 2008-09-19 09:40)
-Apresentação na IV PyConBrasil em 2008 sobre o projeto ISIS-NBP.
+<p>56. Python: cabe no seu bolso, no seu micro, no seu cérebro (São Bernardo - Faculdade Técnica de Termomecânica, from 2008-10-10 19:20 to 2008-10-10 21:00) IV Semana de Tecnologia da FTT</p>
+
+
+<p>55. REST, Gateways e Compiladores (Universidade Veiga de Almeida - Rio de Janeiro/RJ, from 2008-09-19 09:00 to 2008-09-19 09:40) Apresentação na IV PyConBrasil em 2008 sobre o projeto ISIS-NBP.</p>
 
 [http://video.google.com/videoplay?docid=8471088343998579564# PyConBrasil2008 - Rest, Gateways e Compiladores]
 
@@ -328,21 +310,11 @@ Apresentação na IV PyConBrasil em 2008 sobre o projeto ISIS-NBP.
 <iframe src="http://www.slideshare.net/slideshow/embed_code/621191" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/rodsenra/rest-gateway-e-compiladores-presentation-621191" title="Rest, Gateway e Compiladores" target="_blank">Rest, Gateway e Compiladores</a> </strong> from <strong><a href="http://www.slideshare.net/rodsenra" target="_blank">Rodrigo Senra</a></strong> </div>
 
 
-54. ISIS-NBP
-(Rio de Janeiro/RJ, from 2008-09-18 11:20 to 2008-09-21 11:20)
-Presentation of the ISIS-NBP project during the III World ISIS Meeting in CRICS8/RJ
+<p>54. ISIS-NBP (Rio de Janeiro/RJ, from 2008-09-18 11:20 to 2008-09-21 11:20) Presentation of the ISIS-NBP project during the III World ISIS Meeting in CRICS8/RJ</p>
 
+<p>53. ISIS-NBP for developers (Rio de Janeiro/RJ, from 2008-09-15 08:10 to 2008-09-16 08:10) II Meeting of Developers from VHL, SciELO and ScienTI networks</p>
 
-
-53. ISIS-NBP for developers
-(Rio de Janeiro/RJ, from 2008-09-15 08:10 to 2008-09-16 08:10)
-II Meeting of Developers from VHL, SciELO and ScienTI networks
-
-
-
-52. Show Pyrotécnico
-(Impacta - SP, from 2008-08-30 09:30 to 2008-08-30 10:15)
-Python Day na Impacta
+<p>52. Show Pyrotécnico (Impacta - SP, from 2008-08-30 09:30 to 2008-08-30 10:15) Python Day na Impacta</p>
 
 [http://video.google.com/videoplay?docid=2319421608007584215# Show Pyrotecnico (Part - I)]
    
@@ -355,12 +327,7 @@ Python Day na Impacta
 
 <embed id=VideoPlayback src=http://video.google.com/googleplayer.swf?docid=6753414927544841788&hl=en&fs=true style=width:400px;height:326px allowFullScreen=true allowScriptAccess=always type=application/x-shockwave-flash> </embed>
 
-
-
-
-51. Confissões de um hacker Tupiniquim
-(SOCIESC - Joinville - PR, from 2008-07-25 19:30 to 2008-07-25 21:30)
-Narrativa da carreira de Rodrigo Senra no mercado e no mundo acadêmico para motivar estudantes de informática e ciências afins.
+<p>51. Confissões de um hacker Tupiniquim (SOCIESC - Joinville - PR, from 2008-07-25 19:30 to 2008-07-25 21:30) Narrativa da carreira de Rodrigo Senra no mercado e no mundo acadêmico para motivar estudantes de informática e ciências afins.</p>
 
 [http://www.mefeedia.com/entry/a-trajet-ria-de-um-profissional-da-computa-o-1-2/17246534 A Trajetória de um Profissional Tupiniquim] 
 
@@ -368,301 +335,172 @@ Narrativa da carreira de Rodrigo Senra no mercado e no mundo acadêmico para mot
 <iframe src="http://blip.tv/play/Af2ZbAI.html" width="550" height="396" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash" src="http://a.blip.tv/api.swf#Af2ZbAI" style="display:none"></embed>
 
 
-
-50. Python: cabe no seu bolso, no seu micro, no seu cérebro
-(CCUEC - Unicamp, from 2008-06-24 13:40 to 2008-06-24 14:40)
-Desenvolvimento Ágil com Software Livre
+<p>50. Python: cabe no seu bolso, no seu micro, no seu cérebro (CCUEC - Unicamp, from 2008-06-24 13:40 to 2008-06-24 14:40) Desenvolvimento Ágil com Software Livre</p>
 
 
-
-49. Contextualizando Plone
-(Dedini - Piracicaba, from 2008-06-07 14:45 to 2008-06-07 16:45)
+<p>49. Contextualizando Plone (Dedini - Piracicaba, from 2008-06-07 14:45 to 2008-06-07 16:45)</p>
  
+<p>48. Como construir uma Biblioteca Digital (na mão) com Python? (CCUEC - Unicamp, from 2008-05-30 16:30 to 2008-05-30 17:15) VI Encontro GruPy-SP</p>
+
+<p>47. Python: Paixão à primeira edição (Campinas - SP, from 2008-04-26 14:10 to 2008-05-26 15:30) FILSOL Campinas 2008</p>
 
 
-
-48. Como construir uma Biblioteca Digital (na mão) com Python?
-(CCUEC - Unicamp, from 2008-05-30 16:30 to 2008-05-30 17:15)
-VI Encontro GruPy-SP
-
-
-
-47. Python: Paixão à primeira edição
-(Campinas - SP, from 2008-04-26 14:10 to 2008-05-26 15:30)
-FILSOL Campinas 2008
-
-
-
-46. Python e Bibliotecas Digitais
-(FISL 9 - Porto Alegre/RS, from 2008-04-19 19:30 to 2008-04-19 19:30)
+<p>46. Python e Bibliotecas Digitais (FISL 9 - Porto Alegre/RS, from 2008-04-19 19:30 to 2008-04-19 19:30)</p>
  
+<p>45. Webmaps: desafios e resultados (Campos de JordÃ£o - SP, from 2007-11-27 10:15 to 2007-11-27 10:30) Geoinfo 2007</p>
 
 
+<p>44. Clinical Trials Register Platform for Latin America and the Caribbean (WTC, São Paulo - Brasil, from 2007-10-23 00:00 to 2007-11-27 00:00)
+XV Cochrane Colloquium - Evidence based health care for all.</p>
 
-45. Webmaps: desafios e resultados
-(Campos de JordÃ£o - SP, from 2007-11-27 10:15 to 2007-11-27 10:30)
-Geoinfo 2007
+<p>43. Python: Cabe no seu bolso, no seu micro, no seu cérebro. + Mini curso (Ribeirão Preto - SP (USP), from 2007-10-22 00:00 to 2007-10-26 00:00) V Semana da Informática Biomédica</p>
 
+<p>42. Python: Cabe no seu bolso, no seu micro, no seu cérebro. (Taguatinga - DF (Univ. Católica), from 2007-10-05 00:00 to 2007-10-06 00:00) Festival de Software-Livre do DF</p>
 
+<p>41. Python: Cabe no seu bolso, no seu micro, no seu cérebro. (São Carlos - SP (USP), from 2007-10-01 00:00 to 2007-10-05 00:00) 10a Semana de Computação da USP São Carlos (sem::comp(x))</p>
 
-44. Clinical Trials Register Platform for Latin America and the Caribbean
-(WTC, São Paulo - Brasil, from 2007-10-23 00:00 to 2007-11-27 00:00)
-XV Cochrane Colloquium - Evidence based health care for all.
+<p>40. Show Pirotécnico (parte II) (Joinville - SC (SOCIESC), from 2007-08-30 00:00 to 2007-09-01 00:00) 3a PyConBrasil (2007)</p>
 
+<p>39. Python: Cabe no seu bolso, no seu micro, no seu cérebro. (Campinas - SP (Unicamp), from 2007-05-28 18:35 to 2007-06-01 18:35) Inovação 2007 - Unicamp</p>
 
+<p>38. Tutorial sobre Twisted Python (Porto de Galinhas - Recife/PE, from 2007-03-11 08:35 to 2007-03-14 19:35) Bossa Conference - INdT</p>
 
-43. Python: Cabe no seu bolso, no seu micro, no seu cérebro. + Mini curso
-(Ribeirão Preto - SP (USP), from 2007-10-22 00:00 to 2007-10-26 00:00)
-V Semana da Informática Biomédica
+<p>37. Python: Cabe no seu bolso, no seu micro, no seu cérebro! (UNESP - Rio Claro/SP, from 2006-10-23 21:10 to 2006-10-23 22:15) SECCOMP 2006</p>
 
+<p>36. Mini-curso de Python (Puc-Campinas, from 2006-10-19 08:00 to 2006-10-19 13:00) TECNOINFO 2006</p>
 
 
-42. Python: Cabe no seu bolso, no seu micro, no seu cérebro.
-(Taguatinga - DF (Univ. Católica), from 2007-10-05 00:00 to 2007-10-06 00:00)
-Festival de Software-Livre do DF
 
+<p>35. Python: cabe no seu bolso, no seu micro, no seu cérebro! (São Paulo - SP, from 2006-10-07 07:30 to 2006-10-07 19:30) Festival Linguagem de Programação - C#, Java, Python e Ruby - TempoReal</p>
 
 
-41. Python: Cabe no seu bolso, no seu micro, no seu cérebro.
-(São Carlos - SP (USP), from 2007-10-01 00:00 to 2007-10-05 00:00)
-10a Semana de Computação da USP São Carlos (sem::comp(x))
 
+<p>34. Python, Zope, Plone:PZP. O quê, quando, como e por que! (UFSC-FlorianÃ³polis-SC, from 2006-09-27 08:25 to 2006-09-27 13:25) Semana da Computação	2006 na UFSC</p>
 
 
-40. Show Pirotécnico (parte II)
-(Joinville - SC (SOCIESC), from 2007-08-30 00:00 to 2007-09-01 00:00)
-3a PyConBrasil (2007)
 
+<p>33. Introdução a Python (UNESC - CriciÃºma-SC, from 2006-09-27 08:00 to 2006-09-30 20:20) II SulComp - Congresso Sul Catarinense de Computacao</p>
 
 
-39. Python: Cabe no seu bolso, no seu micro, no seu cérebro.
-(Campinas - SP (Unicamp), from 2007-05-28 18:35 to 2007-06-01 18:35)
-Inovação 2007 - Unicamp
 
+<p>32. Webmaps (Montevideo-Uruguay, from 2006-09-08 20:45 to 2006-09-10 20:45) International Workshop of Crop Monitoring and Forecast</p>
 
 
-38. Tutorial sobre Twisted Python
-(Porto de Galinhas - Recife/PE, from 2007-03-11 08:35 to 2007-03-14 19:35)
-Bossa Conference - INdT
 
+<p>31. Show Pyrotécnico (Interlegis DF, from 2006-06-01 00:00 to 2006-06-02 00:00) II PyConBrasil 2006</p>
 
 
-37. Python: Cabe no seu bolso, no seu micro, no seu cérebro!
-(UNESP - Rio Claro/SP, from 2006-10-23 21:10 to 2006-10-23 22:15)
-SECCOMP 2006
 
+<p>30. Python: Cabe no seu bolso, no seu micro, no seu cérebro (Porto Alegre/RS, from 2006-04-19 00:20 to 2006-04-23 00:20) 7 FISL</p>
 
 
-36. Mini-curso de Python
-(Puc-Campinas, from 2006-10-19 08:00 to 2006-10-19 13:00)
-TECNOINFO 2006
 
+<p>29. Python: Cabe no seu bolso, no seu micro, no seu cérebro (FACEN - Sorocaba/SP, from 2006-04-17 19:15 to 2006-04-17 20:30) Semana da Engenharia 2006</p>
 
 
-35. Python: cabe no seu bolso, no seu micro, no seu cérebro!
-(São Paulo - SP, from 2006-10-07 07:30 to 2006-10-07 19:30)
-Festival Linguagem de Programação - C#, Java, Python e Ruby - TempoReal
 
+<p>28. Supercomputeressante (Campinas/SP, from 2006-03-25 16:30 to 2006-03-25 17:30) FLISOL Campinas 2006</p>
 
 
-34. Python, Zope, Plone:PZP. O quê, quando, como e por que!
-(UFSC-FlorianÃ³polis-SC, from 2006-09-27 08:25 to 2006-09-27 13:25)
-Semana da Computação	2006 na UFSC
 
+<p>27. Python: O Canivete Suiço (Fortaleza-CE, from 2005-12-13 00:00 to 2005-12-13 00:00) I Workshop Cearense de SL e Mobilidade</p>
 
 
-33. Introdução a Python
-(UNESC - CriciÃºma-SC, from 2006-09-27 08:00 to 2006-09-30 20:20)
-II SulComp - Congresso Sul Catarinense de Computacao
 
+<p>26. Armazenamento e Gerenciamento de Grafos de Alta-Dimensionalidade (LIS-IC-Unicamp, from 2005-11-08 00:00 to 2005-11-08 00:00) Disciplina MO633</p>
 
 
-32. Webmaps
-(Montevideo-Uruguay, from 2006-09-08 20:45 to 2006-09-10 20:45)
-International Workshop of Crop Monitoring and Forecast
 
+<p>25. Mini-curso Python (UNESP / Rio Claro - SP, from 2005-10-21 00:00 to 2005-10-21 00:00) SECCOMP 2005</p>
 
 
-31. Show Pyrotécnico
-(Interlegis DF, from 2006-06-01 00:00 to 2006-06-02 00:00)
-II PyConBrasil 2006
 
+<p>24. Python: O Canivete Suiço (SERPRO / Rio de Janeiro - RJ, from 2005-10-18 00:00 to 2005-10-18 00:00) III Semana de Software Livre do RJ</p>
 
 
-30. Python: Cabe no seu bolso, no seu micro, no seu cérebro
-(Porto Alegre/RS, from 2006-04-19 00:20 to 2006-04-23 00:20)
-7 FISL
 
+<p>23. Tutorial Python (Manaus - AM, from 2005-10-14 00:00 to 2005-10-14 00:00) III Encontro de Software Livre do Amazonas</p>
 
 
-29. Python: Cabe no seu bolso, no seu micro, no seu cérebro
-(FACEN - Sorocaba/SP, from 2006-04-17 19:15 to 2006-04-17 20:30)
-Semana da Engenharia 2006
 
+<p>22. Python: Paixão à Primeira Edição (Manaus - AM, from 2005-10-13 00:00 to 2005-10-13 00:00) III Encontro de Software Livre do Amazonas</p>
 
 
-28. Supercomputeressante
-(Campinas/SP, from 2006-03-25 16:30 to 2006-03-25 17:30)
-FLISOL Campinas 2006
 
+<p>21. Python: O Canivete Suiço (Metrocamp / Campinas - SP, from 2005-10-10 00:00 to 2005-10-10 00:00) III Semana Tecnológica da Metrocamp</p>
 
 
-27. Python: O Canivete Suiço
-(Fortaleza-CE, from 2005-12-13 00:00 to 2005-12-13 00:00)
-I Workshop Cearense de SL e Mobilidade
 
+<p>20. Python: O Canivete Suiço (PUC / Campinas - SP, from 2005-09-09 00:00 to 2005-09-09 00:00) TecnoInfo 2005</p>
 
 
-26. Armazenamento e Gerenciamento de Grafos de Alta-Dimensionalidade
-(LIS-IC-Unicamp, from 2005-11-08 00:00 to 2005-11-08 00:00)
-Disciplina MO633
 
+<p>19. Python vs Java (Unicamp / Campinas - SP, from 2005-08-01 00:00 to 2005-08-01 00:00) Computação e Mercado 2004</p>
 
 
-25. Mini-curso Python
-(UNESP / Rio Claro - SP, from 2005-10-21 00:00 to 2005-10-21 00:00)
-SECCOMP 2005
 
+<p>18. Java vs Python (Americana - SP, from 2005-06-01 00:00 to 2005-06-01 00:00) II Semana do Software Livre em Americana</p>
 
 
-24. Python: O Canivete Suiço
-(SERPRO / Rio de Janeiro - RJ, from 2005-10-18 00:00 to 2005-10-18 00:00)
-III Semana de Software Livre do RJ
 
+<p>17. A Python Experiment in a Brazilian University (Goteborg Sweden, from 2005-06-01 00:00 to 2005-06-01 00:00) Europython 2005</p>
 
 
-23. Tutorial Python
-(Manaus - AM, from 2005-10-14 00:00 to 2005-10-14 00:00)
-III Encontro de Software Livre do Amazonas
 
+<p>16. The Python Community in Brazil (Goteborg, Sweden, from 2005-06-01 00:00 to 2005-06-01 00:00) Europython 2005</p>
 
 
-22. Python: Paixão à Primeira Edição
-(Manaus - AM, from 2005-10-13 00:00 to 2005-10-13 00:00)
-III Encontro de Software Livre do Amazonas
 
+<p>15. Introdução à linguagem Python (Rio de Janeiro - RJ, from 2005-04-20 00:00 to 2005-04-21 00:00) Treinamento SERPRO</p>
 
+<p>14. <Organizador e Meste-de-cerimônia> (Unicamp / Campinas - SP, from 2005-04-03 00:00 to 2005-04-04 00:00) I PyConBrasil</p>
 
-21. Python: O Canivete Suiço
-(Metrocamp / Campinas - SP, from 2005-10-10 00:00 to 2005-10-10 00:00)
-III Semana Tecnológica da Metrocamp
+<p>13. Python pra valer! (SOCIESC / Joinville - PR, from 2005-04-01 00:00 to 2005-04-01 00:00) Semana de Informática do IST</p>
 
 
 
-20. Python: O Canivete Suiço
-(PUC / Campinas - SP, from 2005-09-09 00:00 to 2005-09-09 00:00)
-TecnoInfo 2005
+<p>12. Python 1001 Utilidades (PUC / Campinas - SP, from 2004-10-01 00:00 to 2004-10-01 00:00) Tecnoinfo 2004</p>
 
 
 
-19. Python vs Java
-(Unicamp / Campinas - SP, from 2005-08-01 00:00 to 2005-08-01 00:00)
-Computação e Mercado 2004
+<p>11. Python: 1001 Utilidades (Santo André - SP, from 2004-09-01 00:00 to 2004-09-01 00:00) I Fórum Regional de Software Livre do ABCD</p>
 
 
 
-18. Java vs Python
-(Americana - SP, from 2005-06-01 00:00 to 2005-06-01 00:00)
-II Semana do Software Livre em Americana
+<p>10. Desmistificando o Python (Unicamp / Campinas - SP, from 2004-09-01 00:00 to 2004-09-01 00:00) Computação e Mercado 2004</p>
 
 
 
-17. A Python Experiment in a Brazilian University
-(Goteborg Sweden, from 2005-06-01 00:00 to 2005-06-01 00:00)
-Europython 2005
+<p>9. Supercomputeressante (Americana - SP, from 2004-08-01 00:00 to 2004-08-01 00:00) Seminários na FAM</p>
 
 
 
-16. The Python Community in Brazil
-(Goteborg, Sweden, from 2005-06-01 00:00 to 2005-06-01 00:00)
-Europython 2005
+<p>8. Python: 1001 Utilidades (Unicamp / Campinas - SP, from 2004-08-01 00:00 to 2004-08-01 00:00)  Seminários no LSD-IC</p>
 
 
 
-15. Introdução à linguagem Python
-(Rio de Janeiro - RJ, from 2005-04-20 00:00 to 2005-04-21 00:00)
-Treinamento SERPRO
+<p>7. Utilizando Python no Ensino de Ciência da Computação (UFES / VitÃ³ria - ES, from 2004-07-01 00:00 to 2004-07-01 00:00) I Encontro de Software Livre no ES</p>
 
 
 
-14. <Organizador e Meste-de-cerimônia>
-(Unicamp / Campinas - SP, from 2005-04-03 00:00 to 2005-04-04 00:00)
-I PyConBrasil
+<p>6. Xtensa Processor Generator (IC/Unicamp - Campinas - SP, from 2004-06-12 00:00 to 2004-06-12 00:00) MO401</p>
 
 
 
-13. Python pra valer!
-(SOCIESC / Joinville - PR, from 2005-04-01 00:00 to 2005-04-01 00:00)
-Semana de Informática do IST
+<p>5. Python: Paixão à primeira edição (Porto Alegre - RS, from 2004-06-03 00:00 to 2004-06-03 00:00) 5 FISL</p>
 
 
 
-12. Python 1001 Utilidades
-(PUC / Campinas - SP, from 2004-10-01 00:00 to 2004-10-01 00:00)
-Tecnoinfo 2004
+<p>4. Design Patterns (IC/Unicamp - SP, from 2003-06-02 00:00 to 2006-02-17 00:00) INF305 - mestrado profissional</p>
 
 
 
-11. Python: 1001 Utilidades
-(Santo AndrÃ© - SP, from 2004-09-01 00:00 to 2004-09-01 00:00)
-I Fórum Regional de Software Livre do ABCD
+<p>3. Palestra Introdutória ao Curso de Eng. de Computação (PUC / Campinas - SP, from 2003-06-01 00:00 to 2003-06-01 00:00) Evento para alunos ingressantes 2003</p>
 
 
 
-10. Desmistificando o Python
-(Unicamp / Campinas - SP, from 2004-09-01 00:00 to 2004-09-01 00:00)
-Computação e Mercado 2004
+<p>2. Free SoftWARe (PUC / Campinas - SP, from 2002-06-01 00:00 to 2002-06-01 00:00) Tecnoinfo 2002</p>
 
 
 
-9. Supercomputeressante
-(Americana - SP, from 2004-08-01 00:00 to 2004-08-01 00:00)
-Seminários na FAM
-
-
-
-8. Python: 1001 Utilidades
-(Unicamp / Campinas - SP, from 2004-08-01 00:00 to 2004-08-01 00:00)
-Seminários no LSD-IC
-
-
-
-7. Utilizando Python no Ensino de Ciência da Computação
-(UFES / VitÃ³ria - ES, from 2004-07-01 00:00 to 2004-07-01 00:00)
-I Encontro de Software Livre no ES
-
-
-
-6. Xtensa Processor Generator
-(IC/Unicamp - Campinas - SP, from 2004-06-12 00:00 to 2004-06-12 00:00)
-MO401
-
-
-
-5. Python: Paixão à primeira edição
-(Porto Alegre - RS, from 2004-06-03 00:00 to 2004-06-03 00:00)
-5 FISL
-
-
-
-4. Design Patterns
-(IC/Unicamp - SP, from 2003-06-02 00:00 to 2006-02-17 00:00)
-INF305 - mestrado profissional
-
-
-
-3. Palestra Introdutória ao Curso de Eng. de Computação
-(PUC / Campinas - SP, from 2003-06-01 00:00 to 2003-06-01 00:00)
-Evento para alunos ingressantes 2003
-
-
-
-2. Free SoftWARe
-(PUC / Campinas - SP, from 2002-06-01 00:00 to 2002-06-01 00:00)
-Tecnoinfo 2002
-
-
-
-1. Curso de Introdução à linguagem Python
-(Valinhos - SP, from 2001-06-01 00:00 to 2001-06-01 00:00)
-Treinamento TI Eaton TRUCK
+<p>1. Curso de Introdução à linguagem Python (Valinhos - SP, from 2001-06-01 00:00 to 2001-06-01 00:00) Treinamento TI Eaton TRUCK</p>
